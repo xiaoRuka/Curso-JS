@@ -1,0 +1,9 @@
+body {
+ background-color: rgb(203, 231, 255);  
+ color: rgb(238, 85, 174); 
+ font: normal;
+ font-family: 'Courier New', Courier, monospace;
+}
+h1 {
+    color: rgb(165, 124, 37);
+}
