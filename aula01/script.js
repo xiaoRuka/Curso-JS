@@ -1,5 +1,12 @@
 window.alert('Uau radical')
 
-window.confirm('gostasse?')
 
-window.prompt('qual seu namae?')
+
+
+var nome = window.prompt('qual seu namae?')
+
+
+document.write(`O número é ${nome.toUpperCase()}`)
+
+//um sinal de = é o recebe
+// null quer dizer que a variante não vai ter nada
