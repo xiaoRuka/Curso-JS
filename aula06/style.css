@@ -1,0 +1,12 @@
+div#area {
+    background-color: rgb(202, 151, 250);
+    font: 20pt Arial;
+    color: rgb(0, 0, 0);
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+}
+div#area:hover {
+    background: red;
+}
